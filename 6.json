@@ -1,0 +1,162 @@
+[
+  {
+    "nome": "ChatGPT",
+    "empresa": "OpenAI",
+    "categoria": "LLM Geral",
+    "resumo": "Assistente conversacional multimodal para texto e imagem, com forte ecossistema de integrações.",
+    "site": "https://chat.openai.com",
+    "tags": ["assistente", "texto", "imagem"]
+  },
+  {
+    "nome": "Claude",
+    "empresa": "Anthropic",
+    "categoria": "LLM Geral",
+    "resumo": "Foco em segurança e raciocínio; bom em análise de documentos extensos.",
+    "site": "https://www.anthropic.com/claude",
+    "tags": ["segurança", "raciocínio", "documentos"]
+  },
+  {
+    "nome": "Gemini",
+    "empresa": "Google",
+    "categoria": "LLM Multimodal",
+    "resumo": "Modelo multimodal com forte integração ao ecossistema Google.",
+    "site": "https://gemini.google.com",
+    "tags": ["multimodal", "google", "produtividade"]
+  },
+  {
+    "nome": "Microsoft Copilot",
+    "empresa": "Microsoft",
+    "categoria": "Produtividade",
+    "resumo": "Assistente para Office, Windows e desenvolvimento com integração ao GitHub.",
+    "site": "https://copilot.microsoft.com",
+    "tags": ["office", "windows", "código"]
+  },
+  {
+    "nome": "Meta AI (Llama)",
+    "empresa": "Meta",
+    "categoria": "LLM (Open Weights)",
+    "resumo": "Família Llama com pesos abertos; ampla adoção pela comunidade.",
+    "site": "https://ai.meta.com/llama/",
+    "tags": ["open-source", "llama", "comunidade"]
+  },
+  {
+    "nome": "Grok",
+    "empresa": "xAI",
+    "categoria": "LLM Geral",
+    "resumo": "Modelo com acesso a dados em tempo quase real da plataforma X.",
+    "site": "https://x.ai",
+    "tags": ["tempo-real", "conversacional"]
+  },
+  {
+    "nome": "Mistral (Le Chat / Mistral Large)",
+    "empresa": "Mistral AI",
+    "categoria": "LLM Geral",
+    "resumo": "Modelos eficientes e rápidos, com foco em custo-benefício.",
+    "site": "https://mistral.ai",
+    "tags": ["eficiência", "custo-benefício"]
+  },
+  {
+    "nome": "Cohere (Command R+)",
+    "empresa": "Cohere",
+    "categoria": "LLM Empresarial",
+    "resumo": "Modelos orientados a aplicações corporativas e RAG.",
+    "site": "https://cohere.com",
+    "tags": ["enterprise", "RAG", "LLM"]
+  },
+  {
+    "nome": "Perplexity",
+    "empresa": "Perplexity AI",
+    "categoria": "Pesquisa Resposta",
+    "resumo": "Motor de respostas com fontes citadas e navegação web.",
+    "site": "https://www.perplexity.ai",
+    "tags": ["busca", "fontes", "web"]
+  },
+  {
+    "nome": "Midjourney",
+    "empresa": "Midjourney",
+    "categoria": "Imagem",
+    "resumo": "Geração de imagens artísticas de alta qualidade.",
+    "site": "https://www.midjourney.com",
+    "tags": ["imagem", "arte", "criatividade"]
+  },
+  {
+    "nome": "Stable Diffusion",
+    "empresa": "Stability AI",
+    "categoria": "Imagem (Open Source)",
+    "resumo": "Modelo de imagem de código aberto com ampla comunidade.",
+    "site": "https://stability.ai",
+    "tags": ["open-source", "imagem", "comunidade"]
+  },
+  {
+    "nome": "Adobe Firefly",
+    "empresa": "Adobe",
+    "categoria": "Imagem",
+    "resumo": "Geração de imagens e recursos generativos integrados ao Adobe.",
+    "site": "https://www.adobe.com/br/products/firefly.html",
+    "tags": ["adobe", "criativo", "imagem"]
+  },
+  {
+    "nome": "Runway Gen-3",
+    "empresa": "Runway",
+    "categoria": "Vídeo",
+    "resumo": "Geração e edição de vídeo com recursos avançados de IA.",
+    "site": "https://runwayml.com",
+    "tags": ["vídeo", "edição", "criativo"]
+  },
+  {
+    "nome": "ElevenLabs",
+    "empresa": "ElevenLabs",
+    "categoria": "Voz",
+    "resumo": "Síntese de voz e clonagem com alta qualidade.",
+    "site": "https://elevenlabs.io",
+    "tags": ["voz", "tts", "áudio"]
+  },
+  {
+    "nome": "DALL·E 3",
+    "empresa": "OpenAI",
+    "categoria": "Imagem",
+    "resumo": "Geração de imagens via texto com controles avançados.",
+    "site": "https://openai.com/dall-e",
+    "tags": ["imagem", "texto-para-imagem"]
+  },
+  {
+    "nome": "AWS Bedrock",
+    "empresa": "Amazon Web Services",
+    "categoria": "Plataforma",
+    "resumo": "Plataforma para uso de múltiplos modelos fundacionais na AWS.",
+    "site": "https://aws.amazon.com/bedrock/",
+    "tags": ["aws", "plataforma", "enterprise"]
+  },
+  {
+    "nome": "IBM watsonx",
+    "empresa": "IBM",
+    "categoria": "Plataforma",
+    "resumo": "Suite para dados, modelos e governança de IA empresarial.",
+    "site": "https://www.ibm.com/watsonx",
+    "tags": ["governança", "dados", "enterprise"]
+  },
+  {
+    "nome": "Hugging Face",
+    "empresa": "Hugging Face",
+    "categoria": "Plataforma/Hub",
+    "resumo": "Hub de modelos, datasets e inferência; grande comunidade.",
+    "site": "https://huggingface.co",
+    "tags": ["modelos", "datasets", "open-source"]
+  },
+  {
+    "nome": "Notion AI",
+    "empresa": "Notion",
+    "categoria": "Produtividade",
+    "resumo": "Assistente embutido para escrever, resumir e organizar no Notion.",
+    "site": "https://www.notion.so/product/ai",
+    "tags": ["escrita", "resumo", "produtividade"]
+  },
+  {
+    "nome": "Jasper",
+    "empresa": "Jasper",
+    "categoria": "Marketing/Conteúdo",
+    "resumo": "Foco em criação de copy e conteúdo para marketing.",
+    "site": "https://www.jasper.ai",
+    "tags": ["marketing", "copy", "conteúdo"]
+  }
+]

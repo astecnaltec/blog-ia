@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "title": "Google anuncia novidades no Gemini para desenvolvedores",
+    "date": "2025-01-15",
+    "summary": "Atualizações no Gemini 1.5 e melhorias no console para apps multimodais.",
+    "url": "https://ai.google/discover/",
+    "source": "Google AI Blog",
+    "tags": ["Google", "Gemini", "multimodal", "dev"]
+  },
+  {
+    "id": "p2",
+    "title": "Anthropic expande a família Claude 3.5",
+    "date": "2025-01-10",
+    "summary": "Novas capacidades de raciocínio e ferramentas para uso empresarial.",
+    "url": "https://www.anthropic.com/news",
+    "source": "Anthropic",
+    "tags": ["Anthropic", "Claude", "LLM"]
+  },
+  {
+    "id": "p3",
+    "title": "OpenAI atualiza o ecossistema de produtos",
+    "date": "2025-01-05",
+    "summary": "Melhorias em modelos e integrações para desenvolvedores e criadores.",
+    "url": "https://openai.com/blog",
+    "source": "OpenAI",
+    "tags": ["OpenAI", "modelos", "plataforma"]
+  }
+]

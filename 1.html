@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Blog IA Brasil — Notícias</title>
+  <meta name="description" content="Blog de notícias sobre as principais IAs do mercado: atualizações, lançamentos e análises." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="home">
+  <header class="topbar">
+    <div class="container">
+      <h1>Blog IA Brasil</h1>
+      <nav>
+        <a href="index.html" class="active">Notícias</a>
+        <a href="guia.html">Guia de IAs</a>
+        <a href="#" onclick="alert('Sobre: blog independente sobre IA. Contato: seuemail@exemplo.com'); return false;">Sobre</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2>Últimas notícias de IA</h2>
+      <p>Acompanhe novidades, lançamentos e tendências das principais plataformas de IA.</p>
+      <input id="search" type="search" placeholder="Buscar por título ou tag (ex.: Google, imagem, LLM)..." />
+    </section>
+
+    <section id="posts" class="grid"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© <span id="year"></span> Blog IA Brasil — Feito com HTML, CSS e JS</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

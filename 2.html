@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Blog IA Brasil — Guia das Principais IAs</title>
+  <meta name="description" content="Guia com informações base das 20 principais IAs do mercado." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="guia">
+  <header class="topbar">
+    <div class="container">
+      <h1>Blog IA Brasil</h1>
+      <nav>
+        <a href="index.html">Notícias</a>
+        <a href="guia.html" class="active">Guia de IAs</a>
+        <a href="#" onclick="alert('Sobre: blog independente sobre IA. Contato: seuemail@exemplo.com'); return false;">Sobre</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2>Guia das 20 principais IAs do mercado</h2>
+      <p>Use o filtro para encontrar por categoria.</p>
+      <div class="filters">
+        <label for="filtro-categoria">Categoria:</label>
+        <select id="filtro-categoria">
+          <option value="">Todas</option>
+        </select>
+        <input id="search-ais" type="search" placeholder="Buscar por nome, empresa ou tag..." />
+      </div>
+    </section>
+
+    <section id="ais" class="grid"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© <span id="year"></span> Blog IA Brasil — Guia atualizado manualmente</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
